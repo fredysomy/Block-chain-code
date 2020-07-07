@@ -6,3 +6,5 @@
 
 
 - Day 2: Display content of a function in a smart contract when btn is clicked
+
+- Day 3: Counter with increment and decrement btns
