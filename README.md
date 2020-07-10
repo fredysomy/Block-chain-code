@@ -14,6 +14,8 @@
 
 - Day 6: Mapping
 
+- Day6.5: Array, crud model,fibonaaci series and viting system
+
 - Day 7: Conditional stmts
 
 - Day8: Contract to book a hotel room 
