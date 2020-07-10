@@ -10,4 +10,10 @@
 
 - Day 4: Calculator (with +,-,\*,/ options)
 
-- Day 5 : Todo list using arrays
+- Day 5: Todo list using arrays
+
+- Day 6: Mapping
+
+- Day 7: Conditional stmts
+
+- Day8: Contract to book a hotel room 
