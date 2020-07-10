@@ -17,3 +17,10 @@
 - Day 7: Conditional stmts
 
 - Day8: Contract to book a hotel room 
+
+
+
+
+## References
+
+1. https://github.com/jklepatch/eattheblocks/tree/master/dapp-30
