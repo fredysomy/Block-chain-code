@@ -21,10 +21,12 @@
 - Day8: Contract to book a hotel room 
 
 
-## Other prpjects
+## Other projects
 1. Airbnb : https://github.com/annu12340/ethindia-workshop/tree/complete-dapp
 2. Voting system : https://github.com/annu12340/Dapp-voting-system
 3. Pete's shop : https://github.com/annu12340/Pete-s-shop
+4. Solidity official doc : https://solidity.readthedocs.io/en/v0.5.3/solidity-by-example.html
+       - Voting    -Simple Open Auction        -Safe Remote Purchase
 
 ## References
 
