@@ -4,24 +4,33 @@
 
   Day 1.5 : Better explaination of day 1 ('_App_' calls function in js and '_instance_' calls function in solidity)
 
-- Day 2: Display content of a function in a smart contract when btn is clicked
+- Day 2: Buttons
+         - Display content of a function in a smart contract when btn is clicked
+         - Counter with increment and decrement btns
+         - Calculator (with +,-,\*,/ options)
 
-- Day 3: Counter with increment and decrement btns
 
-- Day 4: Calculator (with +,-,\*,/ options)
-
-- Day 5: Arrays
+- Day 3: Arrays
 
          - Array of structs
+         - Arrays (advanced)
          - Todo list using arrays
+         - Crud model
 
-- Day 6: Mapping
+- Day 4: Mapping
+         - Simple Mapping
+         - Mapping of structs ppl
 
-- Day6.5: Array, crud model,fibonaaci series and viting system
 
-- Day 7: Conditional stmts
+- Day 5: Conditional stmts
 
-- Day8: Contract to book a hotel room 
+- Day 6: Contract to book a hotel room 
+
+- Miscellaneous
+         - Fibonacci series
+         - Simple Bank example
+         - Hotel room example
+
 
 <br/>
 
