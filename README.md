@@ -20,8 +20,17 @@
 
 - Day8: Contract to book a hotel room 
 
+## Getting started
+1. Use the ``` truffle unbox pet-shop ``` as the template
+2. Write the contract inside the /Contracts folder (.sol as extension). Use the remix ide to test out the out
+3. Inside the /Migrations folder, write the migration code (.js as extension)
+With this the bc part would be over
 
-## Other projects
+4. Inside the /src folder, edit the index.html and js/app.js folder, to create the front end
+5. Open the ganache network and connect it with metamask
+6. Run the ``` npm run dev ``` cmd to run the project
+
+### Other projects
 1. Airbnb : https://github.com/annu12340/ethindia-workshop/tree/complete-dapp
 2. Voting system : https://github.com/annu12340/Dapp-voting-system
 3. Pete's shop : https://github.com/annu12340/Pete-s-shop
