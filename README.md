@@ -61,6 +61,12 @@ With this the bc part would be over
 5. Building an escrow https://github.com/blockgeeks/eth101/blob/master/escrow%20contract/escrow.sol _(good one)_
    - Video https://www.youtube.com/watch?v=6Mry6oAQVXU
    - Dapp university : https://www.youtube.com/watch?v=gU64BZW5lQQ
+6. Conference : https://github.com/eshon/conference
+
+       (explanation : https://medium.com%2F@medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.5b1uv8cqv)
+
+7. A collection of projects : https://github.com/nurASingh/block_chain/tree/master/contracts
+     
 
 Solidity official doc : https://solidity.readthedocs.io/en/v0.5.3/solidity-by-example.html
 
@@ -72,3 +78,8 @@ Solidity official doc : https://solidity.readthedocs.io/en/v0.5.3/solidity-by-ex
 2. blockgeeks : https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ
 3. CodeXpert : https://www.youtube.com/channel/UCb3Rrg2t4PZ59Sna497DUZA
 4. GH : https://github.com/mattlockyer/cryptobnb
+
+
+
+#### Further reference
+1. Awesome Blockchain AI : https://github.com/steven2358/awesome-blockchain-ai
