@@ -1,5 +1,9 @@
 # Block chain programs
 
+ **Notes** https://github.com/annu12340/Block-chain-code/blob/master/.NOTES.md
+ 
+ <br/>
+
 - Day 1: Simply display the content of a function in a smart contract in a web page
 
   Day 1.5 : Better explaination of day 1 ('_App_' calls function in js and '_instance_' calls function in solidity)
